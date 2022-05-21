@@ -1,0 +1,8 @@
+Sempre verificar precedência
+
++Adição
+- Subtração
+* Multiplicação
+/ Divisão
+% Resto da divisão inteira
+** Potência

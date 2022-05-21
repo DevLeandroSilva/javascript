@@ -1,0 +1,9 @@
+[
+    {
+        "nome" : "Leandro",
+        "idade" : 30,
+        "esta_trabalhando": true,
+        "detalhes_profissao" :["programar","jogar", "tocar guitarra"],
+        "hobbies": ["jogar","tocar guitarra","programar"]
+    }
+]

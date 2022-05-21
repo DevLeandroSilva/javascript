@@ -1,0 +1,17 @@
+@charset 'UTF-8';
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(24, 114, 126);
+    color: white;
+    font-weight: bold;
+}
+/*tr, td{
+    border: 1px solid black;
+    text-align: center;
+}
+table{
+    width: 500px;
+    height: 300px;
+    border-collapse: collapse;
+}
+*/

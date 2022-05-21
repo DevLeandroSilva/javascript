@@ -1,0 +1,11 @@
+@charset 'UTF-8';
+
+body{
+    background-color: rgb(8, 140, 235);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;   
+}
+/*.bloco1, .bloco2{
+text-size-adjust: 40px;
+}
+*/
